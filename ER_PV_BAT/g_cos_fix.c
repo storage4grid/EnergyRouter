@@ -1,4 +1,10 @@
 /*
+ * Made by Edgar Bonet
+ * Code available at https://wiki.logre.eu/index.php/Trigonom%C3%A9trie_en_virgule_fixe
+ * Shared under Creative Commons Licence: Attribution-ShareAlike (CC BY-SA)
+ */
+
+/*
  * cos_fix.c: Fixed-point cos() function.
  *
  * Compile for AVR:

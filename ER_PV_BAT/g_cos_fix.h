@@ -1,4 +1,10 @@
 /*
+ * Made by Edgar Bonet
+ * Code available at https://wiki.logre.eu/index.php/Trigonom%C3%A9trie_en_virgule_fixe
+ * Shared under Creative Commons Licence: Attribution-ShareAlike (CC BY-SA)
+ */
+
+/*
  * cos_fix.h: Fixed-point cos() and sin() functions, based on a sixth
  * degree polynomial approximation.
  *

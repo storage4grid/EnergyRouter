@@ -1,12 +1,11 @@
 /* --------------------------------------------------------------------------------------
  * PWM_DUE_LIB library
  * --------------------------------------------------------------------------------------
- * Copyright (c) 2018 -
- * Nuno Vilhena <nunov@outlook.com>
- * 
- * All rights reserved.
+ * Copyright (c) 2019 Nuno Vilhena <nuv@uninova.pt>
  *
- * This library is free software; you can redistribute it and/or
+ * This file is part of ER PV BAT.
+ *
+ * ER PV BAT is free software; you can redistribute it and/or
  * modify it under the terms of the GNU GENERAL PUBLIC LICENSE
  * as published by the Free Software Foundation; either
  * version 3 of the License, or (at your option) any later version.
@@ -15,9 +14,10 @@
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
  * General Public License for more details.
- *
+ * 
  * You should have received a copy of the GNU General Public
- * License along with this library; if not, see: <http://www.gnu.org/licenses/>.
+ * License along with ER PV BAT. If not, see: <http://www.gnu.org/licenses/>.
+ * --------------------------------------------------------------------------------------
  *
  * Description: This file includes classes and objects for using with Arduino
  * 				DUE's ATMEL ATSAM3X8E micro-controller PWM modules.
